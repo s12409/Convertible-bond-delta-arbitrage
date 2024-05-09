@@ -3,4 +3,4 @@
 # Using Taiwan CB to implement delta-arbitrage .
 # Choose 5 period to back-testing the performance of it.
 
-![My image](performance_of_cb.jpg)
+![image](performance_of_cb.jpg)
